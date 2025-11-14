@@ -29,7 +29,7 @@ DoubleDoors is a lightweight **Fabric client mod for Minecraft 1.21.x** that mak
 
 ## Usage
 
-- Click a door with **empty hand** → both doors open/close  
+- Click a door → both doors open/close  
 - Sneak + empty hand → open single door  
 - Sneak + placeable item → normal block placement  
 
