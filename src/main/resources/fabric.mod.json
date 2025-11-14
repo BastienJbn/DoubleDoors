@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "doubledoors",
+	"version": "${version}",
+	"name": "Double Doors",
+	"description": "Nobody should struggle to open doors #startupnation",
+	"authors": [
+		"Seyross"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/doubledoors/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"client": [
+			"seyross.doubledoors.DoubleDoors"
+		]
+	},
+	"mixins": [
+		"doubledoors.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.3",
+		"minecraft": "~1.21.10",
+		"fabric": "*"
+	}
+}
