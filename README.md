@@ -1,5 +1,7 @@
 # DoubleDoors
 
+![Thumbnail](https://cdn.modrinth.com/data/cached_images/e9a64022930d4adcb56f9bb6490bc4b66f23397b_0.webp)
+
 **Automatically open or close both doors with a single click!**
 
 DoubleDoors is a lightweight **Fabric client mod for Minecraft 1.21.x** that makes handling double doors effortless. Simply click one door with an empty hand, and both doors will open or close simultaneously — no more awkwardly clicking each door individually. Sneak to override and open a single door, or hold a placeable item while sneaking to place blocks as usual.  
