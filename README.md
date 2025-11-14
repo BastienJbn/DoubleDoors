@@ -35,7 +35,8 @@ DoubleDoors is a lightweight **Fabric client mod for Minecraft 1.21.x** that mak
 
 ## License
 
-MIT License © [YourName]
+This work is released under **CC0 1.0 Universal (Public Domain Dedication)**.  
+[CC0 License](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ---
 
